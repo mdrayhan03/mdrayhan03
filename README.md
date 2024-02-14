@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdrayhan03
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python, c++, html, css
+- 🌱 I’m currently learning python, c++, java, html, css
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me by facebook, whatsapp, telegram, discord
 
