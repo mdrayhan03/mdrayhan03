@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrayhan03" alt="mdrayhan03" /></a> </p>
 
-- 🔭 I’m currently working on [Plastic_Kothay](https://github.com/mdrayhan03/Plastic_Kothay) & [Immigration-Possibility-Calculator](https://github.com/mdrayhan03/Immigration-Possibility-Calculator)
+- 🔭 I’m currently working on [Plastic_Kothay](https://github.com/mdrayhan03/Plastic_Kothay) & [Immigration-Possibility-Calculator V2](https://github.com/mdrayhan03/Immigration-Possibility-Calculator)
 
 - 🌱 I’m currently learning **Django, Kivy, ML**
 
