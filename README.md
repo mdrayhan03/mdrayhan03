@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mostafaizurrahman2021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mXuPp2U1rg-nY48bpFP9O3U9fczTPzzw/view?usp=sharing](https://drive.google.com/file/d/1mXuPp2U1rg-nY48bpFP9O3U9fczTPzzw/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1mXuPp2U1rg-nY48bpFP9O3U9fczTPzzw/view?usp=sharing)
 
 - ⚡ Fun fact **I play video games**
 
