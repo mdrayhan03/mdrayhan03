@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrayhan03" alt="mdrayhan03" /></a> </p>
 
-- 🔭 I’m currently working on [Plastic_Kothay](https://github.com/mdrayhan03/Plastic_Kothay)
+- 🔭 I’m currently working on [Plastic_Kothay](https://github.com/mdrayhan03/Plastic_Kothay) & [Shohayok](https://github.com/antirahat/aac_sohayok)
+  
+- 🌐 My Protfolio site [Protfolio](https://rayhan-portfolio.lovable.app/)
+  
 - 🌱 I’m currently learning **Django, Kivy, ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdrayhan03](https://github.com/mdrayhan03)
